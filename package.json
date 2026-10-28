@@ -1,6 +1,6 @@
 {
   "name": "@kayphoon/explorer-skill",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Explorer skill: delegate unfamiliar local codebase reconnaissance to a read-only subagent.",
   "type": "module",
   "bin": {
